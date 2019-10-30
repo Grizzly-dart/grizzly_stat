@@ -1,8 +1,8 @@
 name: grizzly_stat
 description: Provides generalized statistical functions.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: teja <tejainece@gmail.com>
+version: 2.0.1
+homepage: https://github.com/Grizzly-dart/vizdom_select
+author: Ravi Teja Gudapati <tejainece@gmail.com>
 
 environment:
   sdk: '>=2.5.0 <3.0.0'
