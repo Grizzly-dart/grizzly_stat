@@ -1,3 +1,7 @@
+## 2.0.4
+
++ Dart analyzer fixes
+
 ## 2.0.3
 
 + `RunningHistogram`

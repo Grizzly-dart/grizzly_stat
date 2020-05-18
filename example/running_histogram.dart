@@ -4,7 +4,7 @@ import 'package:grizzly_stat/grizzly_stat.dart';
 
 void main() {
   final running =
-      RunningHistogram(Extent.consecutive(Extent<double>(0, 1.0).linspace(10)));
+      RunningHistogram(Extent.edgesToBins(Extent<double>(0, 1.0).linspace(10)));
   for (int i = 0; i < 10000; i++) {
     running.append(rand);
   }
