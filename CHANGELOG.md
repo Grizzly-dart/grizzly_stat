@@ -1,3 +1,7 @@
+## 2.0.3
+
++ `RunningHistogram`
+
 ## 2.0.2
 
 + Pub publish fixes
